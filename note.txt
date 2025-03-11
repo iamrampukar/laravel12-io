@@ -1,0 +1,2 @@
+Api Source:
+    https://medium.com/@vidvatek/laravel-10-rest-api-authentication-using-sanctum-d94a861a5ef9
